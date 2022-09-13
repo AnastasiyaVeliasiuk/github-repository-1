@@ -3,3 +3,4 @@ print ("Hello Git")
 def main():
   pass
   
+Информацию, которую я сейчас пишу, должна отобразить в github
